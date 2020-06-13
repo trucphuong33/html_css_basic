@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>テーマパークランキング</title>
+</head>
+<body>
+<h1>テーマパークランキング</h1>
+<h2>私が今までに行ったテーマパークをランキングにしました。</h2>
+   <ul>
+      <li>関西のテーマパーク</li>
+   </ul>
+      <ul>
+       <li>大阪
+            <ol>
+         <li>ユニバーサル・スタジオ・ジャパン </li>
+         <li>ひらかたパーク 「大阪」</li>
+         <li>エキスポランド（一身上の都合により休園） </li>
+         <li>ポルトヨーロッパ 「和歌山」</li>
+         <li>アドベンチャーワールド 「和歌山」</li>
+         <li>志摩スペイン村 「三重」</li>
+       </ol>
+     </li>
+     </ul>
+</body>
+</html>

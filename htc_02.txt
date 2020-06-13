@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>kadai02 マークアップ</title>
+</head>
+<body>
+<h1>HTMLについて学ぶ</h1>
+    <p>HTMLとは</p>
+    <p>HTMLの記述方法</p>
+    <p>マークアップ</p>
+    <p>開始タグと終了タグ</p>
+    <p>ブロック要素とインライン要素</p>
+<h2>HTMLの歴史</h2>
+</body>
+</html>
